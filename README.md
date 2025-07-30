@@ -58,8 +58,7 @@ Ride-Share-Application/
 │       ├── database.py        # Database models
 │       ├── requirements.txt   # Dependencies
 │       └── docker-compose.yml # Service orchestration
-├── README.md                  # This file
-└── CC_0161_0214_0294_1802.pdf # Project documentation
+└── README.md                  # This file
 ```
 
 ## 🛠️ Technology Stack
